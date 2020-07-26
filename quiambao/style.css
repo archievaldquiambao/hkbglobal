@@ -1,0 +1,132 @@
+/*Overwrite */
+.navbar {
+    background: #0B3452 !important;
+}
+a.nav-item.nav-link {
+    color: #fff !important;
+}
+a.nav-item.login {
+	font-weight: 700;
+	background: #fff;
+	color: #0B3452 !important;
+	padding: 10px 20px !important; 
+}
+
+.alt-cont {
+	background: #f1f1f1;
+}
+/*side*/
+.request_info_button {
+   background-color: #0B3452;
+    border-radius: 0px 0px 8px 8px;
+    color: #fff;
+    outline: none;
+    width: auto;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 156px;
+    right: -243px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border: 2px solid #f1f1f1;
+    border-width: 0px 2px 2px 2px;
+    padding: 8px 15px;
+    cursor: pointer;
+    -moz-transition: all 350ms ease-in-out;
+    -webkit-transition: all 350ms ease-in-out;
+    transition: all 350ms ease-in-out;
+    position: fixed;
+}
+/*side*/
+
+
+p, body, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto', sans-serif;
+}	
+.custom-7 {
+    width: 10.8%;
+    margin: 1.7%;
+	}
+img.flag-7 {
+    display: block;
+    margin: 0 auto;
+	}
+.custom-7 p {
+    text-align: center;
+}
+.c-align {
+	text-align: center;
+	margin-top: 50px;
+}
+.online {
+	font-weight: 700;
+	color:#54AF0A;
+}
+.offline {
+	font-weight: 700;
+	color:#B13221;
+}
+.adbans {
+	display: block;
+	margin: 0 auto;
+}
+span.datum {
+    font-size: 14px;
+    text-align: center;
+    display: block;
+}
+span.datum-2 {
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    font-size: 17px;
+}
+img.img-fluid.adbans {
+    margin-bottom: 50px;
+}
+img.img-fluid.responsive-image-100 {
+	margin-bottom: 25px;
+}
+.social-media {
+	text-align: right;
+	display: block;
+}
+.social-media i {
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button.read-more {
+    margin: 0 auto;
+    display: block;
+    border: 0;
+    height: 50px;
+    padding: 0 50px;
+    margin-bottom: 20px;
+    background: #0b3452;
+    color: #fff;
+    font-weight: 300;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+footer {
+    background: #0b3452;
+    padding: 10px 0;
+    color: #fff;
+}
+
+@media (min-width: 576px) {
+	img.img-fluid.responsive-image-100 {
+		width:100%;
+	}
+}
+
+
+
