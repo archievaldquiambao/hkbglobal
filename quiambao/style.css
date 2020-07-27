@@ -126,6 +126,13 @@ footer {
 	img.img-fluid.responsive-image-100 {
 		width:100%;
 	}
+	.custom-7 {
+   		width: 33%;
+    		margin: 0%;
+}
+	a.nav-item.nav-link.login {
+    		width: 85px;
+}
 }
 
 
