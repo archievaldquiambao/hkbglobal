@@ -15,6 +15,9 @@ a.nav-item.login {
 .alt-cont {
 	background: #0b3452;
 }
+span.datum-2 {
+    margin-bottom: 30px;
+}
 /*side*/
 .request_info_button {
    background-color: #0B3452;
