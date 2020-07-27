@@ -133,6 +133,34 @@ footer {
 	a.nav-item.nav-link.login {
     		width: 85px;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+p, body {
+    font-size: 1.5em;
+}
+span.datum, span.datum-2 {
+    font-size: 1.7em;
+}
+span.datum-2 {
+    margin-bottom: 100px;
+}
+.custom-7 p {
+    font-size: 1.7em;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 700;
+}
+.social-media i {
+    font-size: 1.5em !important;
+    letter-spacing: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.request_info_button {
+    top:400px;
+}	
 }
 
 
